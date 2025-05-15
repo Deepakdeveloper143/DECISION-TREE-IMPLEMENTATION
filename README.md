@@ -39,6 +39,11 @@ Conclusion
 Using Scikit-learn to build and visualize a decision tree is a straightforward process involving data preparation, model training, and evaluation. Decision trees are not only powerful in making predictions but also serve as great tools for data exploration and feature importance analysis. The ability to visualize how decisions are made makes them highly interpretable, especially for beginner data scientists and analysts. This transparency makes decision trees suitable for many real-world classification problems where understanding the model’s reasoning is crucial.
 
 
+**Output**
+
+![Image](https://github.com/user-attachments/assets/a46df60a-0c2d-4f9f-9bc2-17c09ddf6016)
+
+
 
 
 
